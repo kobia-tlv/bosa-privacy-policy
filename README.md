@@ -1,4 +1,171 @@
 # bosa-privacy-policy
+
+BOSA app Privacy Policy
+Effective Date: June 23, 2025
+Last Reviewed: June 23, 2025
+
+1. Introduction
+BOSA MX BUCERIAS, S. DE R.L., and its affiliates (“BOSA,” “we,” “our,” or “us”) are committed to safeguarding your privacy and the protection of your personal data, in accordance with applicable privacy laws in Mexico and the United States. This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you use our digital platform (mobile app and website) and related condominium management services, including reservations for amenities, transportation, boat trips, massages, dining, and payment systems (the “Services”).
+
+By accessing or using the Services, you acknowledge that you have read, understood, and agreed to this Privacy Policy.
+
+2. Legal Basis and Applicability
+This Privacy Policy is based on:
+
+Mexico’s Federal Law on the Protection of Personal Data Held by Private Parties (LFPDPPP) and its Regulations.
+
+The United States' applicable privacy frameworks, including the California Consumer Privacy Act (CCPA) and Federal Trade Commission (FTC) consumer protection rules.
+
+This Policy applies to all users who access or use the BOSA platform from within Mexico or the United States.
+
+3. Information We Collect
+We collect the following types of information:
+
+Personal Information (PII):
+Information that identifies or can be associated with you, such as:
+
+Full name
+
+Contact information (email, phone, address)
+
+Account credentials
+
+Payment information (credit/debit card, bank account)
+
+Household and resident information
+
+Preferences, service history, and reservation details
+
+Non-Personal Information:
+
+Data that does not identify you directly, such as:
+
+IP address and device identifiers
+
+Browser and operating system information
+
+Location data (approximate or GPS-based)
+
+Usage logs and in-app behavior
+
+Aggregated analytics or statistical data
+
+4. How We Collect Information
+
+We collect information:
+
+Directly from you: when you register, make a reservation, request a service, or make a payment
+
+Automatically: through cookies, web beacons, device IDs, and server logs
+
+From third-party sources: such as payment processors and platform integrations
+
+5. Purposes of Data Processing
+
+We use your data for the following legitimate business purposes:
+
+To manage and operate your user account
+
+To process transactions and confirm reservations
+
+To coordinate delivery of services requested (e.g., massages, boat trips, transportation)
+
+To communicate with you regarding updates, services, and support
+
+To improve platform usability and service quality
+
+To comply with legal obligations and enforce our Terms of Use
+
+To prevent fraud and unauthorized access
+
+Under Mexican law, this constitutes the "primary purposes" of data processing. Optional uses (e.g., marketing communications) are considered "secondary purposes" and require your express consent.
+
+6. Sharing and Disclosure of Information
+
+We may disclose your data:
+
+To internal personnel and service providers acting on our behalf (data processors)
+
+To payment gateways, customer support platforms, or third-party integrations
+
+To regulatory authorities in compliance with legal obligations (e.g., SAT or FTC)
+
+In connection with a corporate transaction (e.g., merger, sale)
+
+With your consent or instruction
+
+We do not sell your personal information, as defined by the CCPA.
+
+7. User Rights
+Under Mexican Law (ARCO Rights):
+You have the right to:
+
+Access your data
+
+Rectify inaccurate or outdated data
+
+Cancel or delete your data
+
+Object to specific processing uses
+
+You may exercise these rights by submitting a request to:
+Email: cumplimiento@bosa.mx 
+
+Requests will be responded to within 20 business days as per Mexican regulation.
+
+Under U.S. State Laws:
+You may:
+
+Request access to collected categories of personal information
+
+Request deletion of your personal information
+
+Opt out of targeted advertising or data sharing (if applicable)
+
+8. Your Choices
+Cookies: You may adjust your browser settings to manage or block cookies.
+
+Marketing Emails: You may unsubscribe using the link in any marketing email or email us at cumplimiento@bosa.mx. 
+
+Geolocation Settings: You may allow or deny access to location services via your mobile settings.
+
+9. Data Security
+We implement administrative, technical, and physical safeguards, including:
+
+Encrypted communications (SSL)
+
+Firewalls and secure servers
+
+Role-based access controls
+
+However, no digital system is immune to threats. You are responsible for keeping your password and account access secure.
+
+10. Data Retention
+We retain personal data only for as long as necessary to fulfill the stated purposes or comply with applicable law. Residual copies may persist in backup systems for a limited time.
+
+11. Children's Privacy
+Our Platform is not intended for children under the age of 13. We do not knowingly collect data from minors. If we learn that personal data from a child has been collected, we will delete it promptly.
+
+12. International Transfers
+By using our Services, you authorize the transfer of your personal information to the United States and other jurisdictions that may not offer the same level of protection as your home country.
+
+13. External Sites and Services
+Our Platform may contain links to third-party websites or apps. We are not responsible for their privacy practices. Please review their privacy policies independently.
+
+14. Do Not Track (DNT)
+We currently do not respond to DNT signals. You can manage tracking preferences through browser settings and industry tools like the DAA Opt-Out or NAI Opt-Out.
+
+15. Updates to This Policy
+We may update this Privacy Policy as required by changes in law or our practices. Any updates will be published with the new effective date. Continued use of our Services constitutes acceptance of the revised terms.
+
+16. Contact Us
+For any questions, concerns, or requests related to your data, contact us at:
+
+Address: Lázaro Cárdenas 86, Local 23, Bucerias, Nayarit, México.
+Email: cumplimiento@bosa.mx 
+Phone: +1 (619) 677-9516
+Website: bosa.mx
+
 Política de privacidad y manejo de datos personales de BOSA
 Fecha de entrada en vigor: 23 de junio de 2025
 Última revisión: 23 de junio de 2025
@@ -173,179 +340,6 @@ Address: Lázaro Cárdenas 86, Local 23, Bucerias, Nayarit, México.
 Email: cumplimiento@bosa.mx 
 Teléfono: +1 (619) 677-9516
 Sitio web: bosa.mx
-
-
-
-BOSA app Privacy Policy
-Effective Date: June 23, 2025
-Last Reviewed: June 23, 2025
-
-1. Introduction
-BOSA MX BUCERIAS, S. DE R.L., and its affiliates (“BOSA,” “we,” “our,” or “us”) are committed to safeguarding your privacy and the protection of your personal data, in accordance with applicable privacy laws in Mexico and the United States. This Privacy Policy explains how we collect, use, disclose, and protect your personal information when you use our digital platform (mobile app and website) and related condominium management services, including reservations for amenities, transportation, boat trips, massages, dining, and payment systems (the “Services”).
-
-By accessing or using the Services, you acknowledge that you have read, understood, and agreed to this Privacy Policy.
-
-2. Legal Basis and Applicability
-This Privacy Policy is based on:
-
-Mexico’s Federal Law on the Protection of Personal Data Held by Private Parties (LFPDPPP) and its Regulations.
-
-The United States' applicable privacy frameworks, including the California Consumer Privacy Act (CCPA) and Federal Trade Commission (FTC) consumer protection rules.
-
-This Policy applies to all users who access or use the BOSA platform from within Mexico or the United States.
-
-3. Information We Collect
-We collect the following types of information:
-
-Personal Information (PII):
-Information that identifies or can be associated with you, such as:
-
-Full name
-
-Contact information (email, phone, address)
-
-Account credentials
-
-Payment information (credit/debit card, bank account)
-
-Household and resident information
-
-Preferences, service history, and reservation details
-
-Non-Personal Information:
-
-Data that does not identify you directly, such as:
-
-IP address and device identifiers
-
-Browser and operating system information
-
-Location data (approximate or GPS-based)
-
-Usage logs and in-app behavior
-
-Aggregated analytics or statistical data
-
-4. How We Collect Information
-
-We collect information:
-
-Directly from you: when you register, make a reservation, request a service, or make a payment
-
-Automatically: through cookies, web beacons, device IDs, and server logs
-
-From third-party sources: such as payment processors and platform integrations
-
-5. Purposes of Data Processing
-
-We use your data for the following legitimate business purposes:
-
-To manage and operate your user account
-
-To process transactions and confirm reservations
-
-To coordinate delivery of services requested (e.g., massages, boat trips, transportation)
-
-To communicate with you regarding updates, services, and support
-
-To improve platform usability and service quality
-
-To comply with legal obligations and enforce our Terms of Use
-
-To prevent fraud and unauthorized access
-
-Under Mexican law, this constitutes the "primary purposes" of data processing. Optional uses (e.g., marketing communications) are considered "secondary purposes" and require your express consent.
-
-6. Sharing and Disclosure of Information
-
-We may disclose your data:
-
-To internal personnel and service providers acting on our behalf (data processors)
-
-To payment gateways, customer support platforms, or third-party integrations
-
-To regulatory authorities in compliance with legal obligations (e.g., SAT or FTC)
-
-In connection with a corporate transaction (e.g., merger, sale)
-
-With your consent or instruction
-
-We do not sell your personal information, as defined by the CCPA.
-
-7. User Rights
-Under Mexican Law (ARCO Rights):
-You have the right to:
-
-Access your data
-
-Rectify inaccurate or outdated data
-
-Cancel or delete your data
-
-Object to specific processing uses
-
-You may exercise these rights by submitting a request to:
-Email: cumplimiento@bosa.mx 
-
-Requests will be responded to within 20 business days as per Mexican regulation.
-
-Under U.S. State Laws:
-You may:
-
-Request access to collected categories of personal information
-
-Request deletion of your personal information
-
-Opt out of targeted advertising or data sharing (if applicable)
-
-8. Your Choices
-Cookies: You may adjust your browser settings to manage or block cookies.
-
-Marketing Emails: You may unsubscribe using the link in any marketing email or email us at cumplimiento@bosa.mx. 
-
-Geolocation Settings: You may allow or deny access to location services via your mobile settings.
-
-9. Data Security
-We implement administrative, technical, and physical safeguards, including:
-
-Encrypted communications (SSL)
-
-Firewalls and secure servers
-
-Role-based access controls
-
-However, no digital system is immune to threats. You are responsible for keeping your password and account access secure.
-
-10. Data Retention
-We retain personal data only for as long as necessary to fulfill the stated purposes or comply with applicable law. Residual copies may persist in backup systems for a limited time.
-
-11. Children's Privacy
-Our Platform is not intended for children under the age of 13. We do not knowingly collect data from minors. If we learn that personal data from a child has been collected, we will delete it promptly.
-
-12. International Transfers
-By using our Services, you authorize the transfer of your personal information to the United States and other jurisdictions that may not offer the same level of protection as your home country.
-
-13. External Sites and Services
-Our Platform may contain links to third-party websites or apps. We are not responsible for their privacy practices. Please review their privacy policies independently.
-
-14. Do Not Track (DNT)
-We currently do not respond to DNT signals. You can manage tracking preferences through browser settings and industry tools like the DAA Opt-Out or NAI Opt-Out.
-
-15. Updates to This Policy
-We may update this Privacy Policy as required by changes in law or our practices. Any updates will be published with the new effective date. Continued use of our Services constitutes acceptance of the revised terms.
-
-16. Contact Us
-For any questions, concerns, or requests related to your data, contact us at:
-
-Address: Lázaro Cárdenas 86, Local 23, Bucerias, Nayarit, México.
-Email: cumplimiento@bosa.mx 
-Phone: +1 (619) 677-9516
-Website: bosa.mx
-
-
-
-
-
 
 Términos y Condiciones de Uso de la Aplicación Móvil BOSA
 
